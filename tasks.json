@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Buy cargos",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "title": "Buy shirts",
+        "completed": false
+    }
+]
